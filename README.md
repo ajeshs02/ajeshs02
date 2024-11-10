@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   <div id="badges" align="center">
-   <div> <a href="https://www.linkedin.com/in/ajesh02/">
+   <div> <a href="https://www.linkedin.com/in/ajesh02/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
    </div>
@@ -26,7 +26,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :mailbox:You can reach me on:
     <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/ajesh02/">
+    <a href="https://www.linkedin.com/in/ajesh02/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
