@@ -19,9 +19,9 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: I work as a freelance developer, delivering responsive web applications focused on user engagement and visibility.
 
-- :seedling: Constantly improving my skills in CI/CD, Docker, and modern web technologies.
+- :seedling: Constantly improving my skills modern web technologies.
 
-- :zap: In my free time, I enjoy researching astronomy, exploring tech articles, and expanding my knowledge on web developement best practices.
+- :zap: In my free time, I enjoy researching science , space , tech.
 
 
 - :mailbox:You can reach me on:
