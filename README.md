@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="280"/>
 </div>
   <div id="badges" align="center">
    <div> <a href="https://www.linkedin.com/in/ajesh02/" target="_blank">
@@ -15,11 +15,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specialising in building high-performance, SEO-optimized websites using React, Next.js, and TypeScript.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specialising in building high-performance, SEO-optimized websites in Next.js and MERN stack.
 
 - :telescope: I work as a freelance developer, delivering responsive web applications focused on user engagement and visibility.
 
-- :seedling: Constantly improving my skills modern web technologies.
+- :seedling: Constantly improving my skills and exploring modern web technologies.
 
 - :zap: In my free time, I enjoy researching science , space , tech.
 
