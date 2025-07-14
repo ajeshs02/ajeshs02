@@ -17,7 +17,7 @@
 ### :man_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specialising in building high-performance, SEO-optimized websites in Next.js and MERN stack.
 
-- :telescope: I work as a freelance developer, delivering responsive web applications focused on user engagement and visibility.
+- :telescope: I work as a Full Stack developer (React / Nextjs / Nodejs), delivering responsive web applications focused on user engagement and visibility.
 
 - :seedling: Constantly improving my skills and exploring modern web technologies.
 
