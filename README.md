@@ -1,64 +1,78 @@
 <div align="center">
-  <h1>Hi there, I'm Ajesh 👋</h1>
-  <p align="center">
-    <strong>Full Stack Developer | Next.js & MERN Specialist</strong>
-  </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ajesh02/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" />
+
+<h1>Hi, I’m Ajesh S 👋</h1>
+
+<p>
+Full Stack Web Developer · MERN & Next.js <br/>
+Building scalable, high-performance, SEO-focused web applications
+</p>
+
+<a href="https://www.linkedin.com/in/ajesh02/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-### 💫 About Me
+## 👨‍💻 About Me
 
-I am a **Web Developer** specializing in building high-performance, SEO-optimized applications. I bridge the gap between complex backend logic and seamless frontend experiences.
+I’m a **Full Stack Web Developer** specializing in **React, Next.js, Node.js**, and the **MERN stack**.  
+My work focuses on **performance, maintainability, and real-world scalability**, especially for SEO-critical applications.
 
-- 🔭 **Currently working on:** Delivering responsive applications using **Next.js** and the **MERN stack**.
-- 🌱 **Learning:** Deep-diving into system architecture and modern DevOps workflows.
-- ⚡ **Fun Fact:** When I'm not coding, I'm exploring the mysteries of **Space & Science** or keeping up with the latest tech trends.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) |
+- 🚀 Building responsive, production-grade web applications  
+- ⚙️ Strong focus on performance optimization & clean architecture  
+- 🌱 Continuously learning modern web and backend technologies  
+- 🔭 Interests: science, space, technology, and system design  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="36"/>
+</p>
+
+### Backend & Database
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36"/>
+</p>
+
+### Tools & DevOps
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeshs02&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ajeshs02&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ajeshs02&theme=dark&background=000000" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajeshs02&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Ajesh's GitHub Stats" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeshs02&layout=compact&theme=vision-friendly-dark" />
+
 </div>
 
 ---
 
-<div align="center">
-  <p><i>"The only way to do great work is to love what you do."</i></p>
-</div>
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/ajesh02](https://www.linkedin.com/in/ajesh02/)
