@@ -1,78 +1,72 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="220" />
+  <h1>Hey, I'm Ajesh S 🚀</h1>
+  <p align="center">
+    <strong>Full Stack Engineer | Backend & Performance Specialist</strong><br />
+    Focusing on high-concurrency systems, SEO optimization, and scalable architecture.
+  </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" />
-
-<h1>Hi, I’m Ajesh S 👋</h1>
-
-<p>
-Full Stack Web Developer · MERN & Next.js <br/>
-Building scalable, high-performance, SEO-focused web applications
-</p>
-
-<a href="https://www.linkedin.com/in/ajesh02/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ajesh02/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### ⚡ Professional Overview
 
-I’m a **Full Stack Web Developer** specializing in **React, Next.js, Node.js**, and the **MERN stack**.  
-My work focuses on **performance, maintainability, and real-world scalability**, especially for SEO-critical applications.
+I am a **Full Stack Developer** with a deep interest in **system design and performance**. My expertise lies in bridging the gap between high-performance backends and SEO-optimized, pixel-perfect frontends.
 
-- 🚀 Building responsive, production-grade web applications  
-- ⚙️ Strong focus on performance optimization & clean architecture  
-- 🌱 Continuously learning modern web and backend technologies  
-- 🔭 Interests: science, space, technology, and system design  
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="36"/>
-</p>
-
-### Backend & Database
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36"/>
-</p>
-
-### Tools & DevOps
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36"/>
-</p>
+* **Backend Mastery:** Transitioning from Node.js to **Golang** for high-concurrency services and distributed systems.
+* **Performance Frontend:** Specialized in **Next.js** architecture, focusing on Core Web Vitals, SSR/ISR, and lightning-fast load times.
+* **DevOps Mindset:** Implementing containerization with **Docker** and exploring CI/CD workflows to streamline deployments.
+* **Philosophy:** Writing clean, maintainable code that prioritizes user experience and business scalability.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Technical Arsenal
+
+| Category | technologies |
+| :--- | :--- |
+| **Backend & Systems** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Performance Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+---
+
+### 📈 Activity & Insights
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeshs02&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+      </td>
+      <td width="50%">
+         <img src="https://github-readme-streak-stats.herokuapp.com?user=ajeshs02&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ajeshs02&theme=dark&background=000000" />
+<br />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeshs02&layout=compact&theme=vision-friendly-dark" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeshs02&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Ajesh's Stats" />
 </div>
 
 ---
 
-## 📫 Connect With Me
+### 🔭 Current Focuses
+- 🐹 Deep diving into **Go Channels & Concurrency** patterns.
+- 🏗️ Mastering **Microservices Architecture**.
+- 🚀 Optimizing Largest Contentful Paint (LCP) for enterprise-level apps.
 
-- 💼 LinkedIn: [linkedin.com/in/ajesh02](https://www.linkedin.com/in/ajesh02/)
+<div align="center">
+  <p><i>Building the future, one commit at a time.</i></p>
+</div>
