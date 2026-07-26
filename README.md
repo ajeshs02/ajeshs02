@@ -1,74 +1,133 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="220" />
-  <h1>Hey, I'm Ajesh S 🚀</h1>
-  <p align="center">
-    <strong>Full Stack Engineer | Backend & Performance Specialist</strong><br />
-    Focusing on high-concurrency systems, SEO optimization, and scalable architecture.
-  </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ajesh02/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:ajeshs.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" />
+
+# Ajesh S
+
+**Software Engineer · Full Stack (Node.js, PostgreSQL)**
+
+Building performance-optimized, SEO-friendly web applications and data-intensive backend systems.
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ajeshs.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajesh02/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajeshs.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajeshs02)
+
 </div>
 
----
+<br />
 
-### ⚡ Professional Overview
+## About Me
 
-I am a **Full Stack Developer** with a deep interest in **system design and performance**. My expertise lies in bridging the gap between high-performance backends and SEO-optimized, pixel-perfect frontends.
+I'm a Full Stack Engineer with 2.5+ years of experience building web applications and backend systems with **Node.js** and **PostgreSQL**. My recent focus has been on data-intensive analytics features — dynamic queries, flexible filtering, and query optimization at scale — alongside earlier experience building responsive, SEO-optimized interfaces with **React** and **Next.js**.
 
-* **Backend Mastery:** Transitioning from Node.js to **Golang** for high-concurrency services and distributed systems.
-* **Performance Frontend:** Specialized in **Next.js** architecture, focusing on Core Web Vitals, SSR/ISR, and lightning-fast load times.
-* **DevOps Mindset:** Implementing containerization with **Docker** and exploring CI/CD workflows to streamline deployments.
-* **Philosophy:** Writing clean, maintainable code that prioritizes user experience and business scalability.
+- 🔍 **Currently:** Building analytics and filtering systems for a multi-tenant employee engagement platform
+- ⚡ **Strength:** SQL query optimization and backend architecture (Service-Repository pattern)
+- 🎨 **Background:** SSR/ISR performance-focused frontends with React & Next.js
+- 📚 **Exploring:** NestJS, Jest testing, CI/CD with GitHub Actions, AWS EC2
 
----
+<br />
 
----
+## Tech Stack
 
-### 🛠️ Technical Arsenal
+<table>
+<tr>
+<td valign="top" width="50%">
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Performance Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-Performance_Focus-brightgreen?style=flat-square) |
-| **Backend & Systems** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-Automation-orange?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+**Frontend**
+<br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
 
----
+</td>
+<td valign="top" width="50%">
 
-### 📈 Activity & Insights
+**Backend & Data**
+<br />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Tooling & Deployment**
+<br />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+**Practices**
+<br />
+<img src="https://img.shields.io/badge/MVC_Architecture-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Service--Repository_Pattern-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/RESTful_APIs-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Featured Work
+
+**Employee Engagement Analytics Platform** — *Techpearl Software Pvt. Ltd.*
+Full-stack analytics system used by 23+ companies (~25k users), with multi-level cross-filter views across organizational hierarchies. Query optimization work brought heavily filtered analytical queries down to sub-1-second execution. Also built a tenant- and user-level DB anonymization feature preserving referential integrity.
+
+**Ride.Rent — Vehicle Rental Platform & Admin Dashboard** — *Ride Rent LLC*
+SEO-focused rental platform built with Next.js (SSR + TypeScript), reaching 95+ Lighthouse scores and sub-2s load times. Included customer-facing interfaces and multi-region admin dashboards, RESTful APIs via NestJS/Mongoose, and JWT-based authentication.
+
+**Team Sync — B2B Project Management Platform** — *Personal Project*
+Multi-tenant, Jira-style platform with Google OAuth, workspace-level access, and role-based access control. Backend built with TypeScript, the Service-Repository pattern, Zod validation, and transactional APIs; deployed on AWS EC2 with GitHub Actions CI/CD and PM2.
+
+<br />
+
+## Experience
+
+| Role | Company | Duration |
+| :--- | :--- | :--- |
+| Software Engineer | Techpearl Software Pvt Ltd. | Aug 2025 – Present |
+| Full Stack Developer | Ride Rent LLC | Sep 2023 – Aug 2025 |
+| Web Development Mentor (MERN) | Freelance | 2023 – 2024 |
+
+**Education:** Bachelor of Computer Applications (BCA), Kerala University (2020 – 2023)
+
+<br />
+
+## GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeshs02&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-      </td>
-      <td width="50%">
-         <img src="https://github-readme-streak-stats.herokuapp.com?user=ajeshs02&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeshs02&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Ajesh's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajeshs02&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeshs02&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajeshs02&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Ajesh's Stats" />
-</div>
-
----
-
-### 🔭 Current Focuses
-- 🐹 Deep diving into **Go Channels & Concurrency** patterns.
-- 🏗️ Mastering **Microservices Architecture**.
-- 🚀 Optimizing Largest Contentful Paint (LCP) for enterprise-level apps.
-
-<div align="center">
-  <p><i>Building the future, one commit at a time.</i></p>
+  <sub>Let's connect — always open to talking backend architecture, query performance, or Next.js.</sub>
 </div>
